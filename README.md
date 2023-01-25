@@ -3,6 +3,8 @@ YOLOv5 object detection with ML.NET, ONNX
 
 ## Installation
 
+Install OpenCVsharp4 and OpenCVSharp Runtime windows package from nuget
+
 Run this line from Package Manager Console:
 
 ```
